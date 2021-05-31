@@ -10,4 +10,4 @@
 
 ![Functions-Demo-Overview](img/Functions-Demo-Overview.png)
 
-Created for a demo introduction for Azure Functions
+Created for a demo introduction to Azure Functions
